@@ -1,4 +1,5 @@
 IBM Data Science Capstone Project - SpaceX
+
 Introduction
 
 In this capstone project, our objective is to forecast the successful landing of the Falcon 9 first stage. SpaceX promotes Falcon 9 rocket launches on its platform, pricing them at 62 million dollars, significantly lower than other providers whose costs exceed 165 million dollars each, largely attributable to SpaceX's ability to recycle the first stage. Hence, determining the first stage's landing outcome allows for the estimation of launch costs, which can be leveraged by competing firms bidding against SpaceX for rocket launches.
